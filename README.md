@@ -47,8 +47,4 @@
 
 
 </div>
-![Snake animation](https://raw.githubusercontent.com/NogFait18/NogFait18/output/snake.svg)
-
-
-
 ###
