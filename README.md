@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Fausto and I'm a Frontend developer from Argentina</h1>
+<h1 align="left">Hola 👋! ¡Mi nombre es Fausto soy un desarrollador en formación, construyendo mi camino en el mundo del software!</h1>
 
 ###
 
